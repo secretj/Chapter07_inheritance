@@ -1,4 +1,4 @@
-package ch07_2_polymorphism;
+package ch07_2_1_polymorphism;
 
 public class KumhoTire extends Tire {
 	public KumhoTire(String location, int maxRotation) {
